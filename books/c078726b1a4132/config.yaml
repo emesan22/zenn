@@ -7,3 +7,4 @@ chapters:
   - first
   - kotlin
   - 動かしてみよう
+allow_override: true
