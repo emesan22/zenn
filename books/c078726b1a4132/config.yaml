@@ -1,0 +1,9 @@
+title: "KotlinではじめるDiscord Bot 入門"
+summary: "最初の頃JDAでBot作る時Kotlinで作っていました。\nあんましドキュメントが少なかったりJDAの日本語ドキュメントが少なかったりだとかで少し困難なことが学んでいました。今まで学んだことを整理して Book を作りました。\n今回この Book ではKotlinのことやJDAでのDiscord Botの作り方を紹介します。\nこの Book を最後まで読んでくれたらうれしいです。"
+topics: ["JDA", "Kotlin"]
+published: false
+price: 0
+chapters:
+  - first
+  - kotlin
+  - 動かしてみよう

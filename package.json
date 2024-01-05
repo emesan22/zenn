@@ -1,0 +1,11 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/emesan22/zenn.git",
+  "author": "emesan <emesan@mail.emesan.click>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.150"
+  }
+}
