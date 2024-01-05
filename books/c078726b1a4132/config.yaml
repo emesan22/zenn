@@ -3,8 +3,4 @@ summary: "最初の頃JDAでBot作る時Kotlinで作っていました。\nあ�
 topics: ["JDA", "Kotlin"]
 published: false
 price: 0
-chapters:
-  - first
-  - kotlin
-  - 動かしてみよう
 allow_override: true
